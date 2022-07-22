@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Common\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\can.blog.Data\can.blog.Data.csproj" />
+    <ProjectReference Include="..\can.blog.Entity\can.blog.Entity.csproj" />
+    <ProjectReference Include="..\can.blog.Infrastructure\can.blog.Infrastructure.csproj" />
+    <ProjectReference Include="..\can.blog.Model\can.blog.Model.csproj" />
+  </ItemGroup>
+
+</Project>

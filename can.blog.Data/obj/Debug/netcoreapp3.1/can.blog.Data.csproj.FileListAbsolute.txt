@@ -1,0 +1,16 @@
+C:\Users\Can\source\repos\can.blog\can.blog.Data\bin\Debug\netcoreapp3.1\can.blog.Data.deps.json
+C:\Users\Can\source\repos\can.blog\can.blog.Data\bin\Debug\netcoreapp3.1\can.blog.Data.runtimeconfig.json
+C:\Users\Can\source\repos\can.blog\can.blog.Data\bin\Debug\netcoreapp3.1\can.blog.Data.runtimeconfig.dev.json
+C:\Users\Can\source\repos\can.blog\can.blog.Data\bin\Debug\netcoreapp3.1\can.blog.Data.dll
+C:\Users\Can\source\repos\can.blog\can.blog.Data\bin\Debug\netcoreapp3.1\can.blog.Data.pdb
+C:\Users\Can\source\repos\can.blog\can.blog.Data\bin\Debug\netcoreapp3.1\can.blog.Entity.dll
+C:\Users\Can\source\repos\can.blog\can.blog.Data\bin\Debug\netcoreapp3.1\can.blog.Entity.pdb
+C:\Users\Can\source\repos\can.blog\can.blog.Data\obj\Debug\netcoreapp3.1\can.blog.Data.csproj.AssemblyReference.cache
+C:\Users\Can\source\repos\can.blog\can.blog.Data\obj\Debug\netcoreapp3.1\can.blog.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\source\repos\can.blog\can.blog.Data\obj\Debug\netcoreapp3.1\can.blog.Data.AssemblyInfoInputs.cache
+C:\Users\Can\source\repos\can.blog\can.blog.Data\obj\Debug\netcoreapp3.1\can.blog.Data.AssemblyInfo.cs
+C:\Users\Can\source\repos\can.blog\can.blog.Data\obj\Debug\netcoreapp3.1\can.blog.Data.csproj.CoreCompileInputs.cache
+C:\Users\Can\source\repos\can.blog\can.blog.Data\obj\Debug\netcoreapp3.1\can.blog.Data.csproj.CopyComplete
+C:\Users\Can\source\repos\can.blog\can.blog.Data\obj\Debug\netcoreapp3.1\can.blog.Data.dll
+C:\Users\Can\source\repos\can.blog\can.blog.Data\obj\Debug\netcoreapp3.1\can.blog.Data.pdb
+C:\Users\Can\source\repos\can.blog\can.blog.Data\obj\Debug\netcoreapp3.1\can.blog.Data.genruntimeconfig.cache
